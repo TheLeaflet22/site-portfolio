@@ -213,4 +213,10 @@ footer {
 #vk {
     padding-right: 120px;
     padding-left: 29px;
+
+}
+
+button:hover {
+    background-color: #d35f25;
+    transform: translateY(-2px);
 }
